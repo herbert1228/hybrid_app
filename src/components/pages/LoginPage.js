@@ -4,7 +4,7 @@ import LoginForm from "../forms/LoginForm"
 
 class LoginPage extends React.Component {
     submit = data => {
-        console.log(data)
+        // console.log(data)
     }
 
     render() {
