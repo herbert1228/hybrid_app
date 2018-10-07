@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94f7aab4-18b9-47e3-be6b-18fc294476b1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/forms/LoginForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/messages/InlineError.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/HomePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/LoginPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="94f7aab4-18b9-47e3-be6b-18fc294476b1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +38,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="46" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="46" />
+            <state relative-caret-position="219">
+              <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -338,12 +329,12 @@
       <updated>1538128414984</updated>
       <workItem from="1538128417775" duration="5050000" />
       <workItem from="1538200458059" duration="13281000" />
-      <workItem from="1538909783583" duration="388000" />
+      <workItem from="1538909783583" duration="614000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18719000" />
+    <option name="totallyTimeSpent" value="18945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -359,8 +350,8 @@
       <window_info anchor="right" id="Maven Projects" order="2" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.2447466" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" visible="true" weight="0.32880098" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.2447466" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.32880098" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" content_ui="combo" id="Project" order="1" visible="true" weight="0.18767908" />
@@ -593,8 +584,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="46" />
+        <state relative-caret-position="219">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
         </state>
       </provider>
     </entry>
