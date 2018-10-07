@@ -21,7 +21,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "lint": "eslint src",
-    "upload": "git add . && git commit -am \"daily update\" && git push"
+    "upload": "git add . && git commit -am \"regular update\" && git push"
   },
   "devDependencies": {
     "eslint-config-airbnb": "^15.0.1",

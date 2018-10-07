@@ -255,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.upload">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -306,8 +306,22 @@
       <node-interpreter value="project" />
       <envs />
     </configuration>
+    <configuration name="upload" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="upload" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="npm.lint" />
+      <item itemvalue="npm.upload" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.upload" />
         <item itemvalue="npm.lint" />
       </list>
     </recent_temporary>
